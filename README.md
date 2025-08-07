@@ -17,7 +17,7 @@ Welcome to the **Networking Fundamentals** course notes. This notes aims to prov
 
 | Lesson | Topic | Link |
 |-------:|:------|:-----|
-| 1 | Hosts, IP Addresses, and Networks | [Read Notes](./lesson-01-hosts-ip-addresses-networks/) |
+| 1 | Hosts, IP Addresses, and Networks | [Read Notes](./) |
 | 2 | Repeaters, Hubs, Switches, Routers | _Coming Soon_ |
 
 
